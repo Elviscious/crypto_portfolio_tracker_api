@@ -1,3 +1,6 @@
-_py_cache_/
-venv/
+__pycache__/
+*.pyc
 .env
+.vscode/
+instance/
+venv/
